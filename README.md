@@ -8,5 +8,16 @@
 
 ### Languages and Tools I use the most:
 
-![VS Code](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png =26x)&nbsp; ![Javascript](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png =26x)&nbsp; ![Typescript](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png =26x)&nbsp; ![C#](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png =26x)
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
+
+<i alt="VS Code" class="devicon-visualstudio-plain colored" style="height: 26px;"></i>
+<i alt="WebStorm" class="devicon-webstorm-plain colored"></i>
+<i alt="PHPStorm" class="devicon-phpstorm-plain colored"></i>
+<i alt="Docker" class="devicon-docker-plain colored"></i>
+
+<i alt="Javascript" class="devicon-javascript-plain colored"></i>
+<i alt="Typescript" class="devicon-typescript-plain colored"></i>
+<i alt="C#" class="devicon-csharp-plain colored"></i>
+<i alt="C++" class="devicon-cplusplus-plain colored"></i>
+<i alt="PHP" class="devicon-php-plain colored"></i>
 
