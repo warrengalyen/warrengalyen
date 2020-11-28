@@ -8,16 +8,11 @@
 
 ### Languages and Tools I use the most:
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
+<a href="https://www.javascript.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="32"></a>&nbsp;<a href="https://www.typescriptlang.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="32"></a>&nbsp;<a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="32"></a>&nbsp;<a href="https://www.rust-lang.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" width="32"></a>&nbsp;<a href="https://www.php.net/"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="32"></a>
 
-<i alt="VS Code" class="devicon-visualstudio-plain colored" style="height: 26px;"></i>
-<i alt="WebStorm" class="devicon-webstorm-plain colored"></i>
-<i alt="PHPStorm" class="devicon-phpstorm-plain colored"></i>
-<i alt="Docker" class="devicon-docker-plain colored"></i>
+<a href="https://code.visualstudio.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="32"></a>&nbsp;<a href="https://www.jetbrains.com/webstorm/"><img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" width="32"></a>&nbsp;<a href="https://www.jetbrains.com/phpstorm/"><img src="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-original.svg" width="32"></a>&nbsp;<a href="https://www.docker.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="32"></a>
 
-<i alt="Javascript" class="devicon-javascript-plain colored"></i>
-<i alt="Typescript" class="devicon-typescript-plain colored"></i>
-<i alt="C#" class="devicon-csharp-plain colored"></i>
-<i alt="C++" class="devicon-cplusplus-plain colored"></i>
-<i alt="PHP" class="devicon-php-plain colored"></i>
+
+
+
 
