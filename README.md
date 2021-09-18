@@ -1,6 +1,4 @@
 
-![My stats for 2021](https://github-readme-stats.vercel.app/api?username=warrengalyen&show_icons=true&include_all_commits=true&count_private=true)
-
 ### Languages and Tools I use the most:
 
 <a href="https://www.javascript.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="32"></a>&nbsp;<a href="https://www.typescriptlang.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="32"></a>&nbsp;<a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="32"></a>&nbsp;<a href="https://www.rust-lang.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" width="32"></a>&nbsp;<a href="https://www.php.net/"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="32"></a>
