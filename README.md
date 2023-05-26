@@ -10,36 +10,56 @@
 
 <a href="https://github.com/mechanika-lab-apps">Mechanika Web Lab</a>
 
+</br>
 
+### Stuff  I use the most:
 
-### Languages and Tools I use the most:
+💻 Languages
 
-<a href="https://www.javascript.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="32"></a>&nbsp;
-<a href="https://www.typescriptlang.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="32"></a>&nbsp;
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="32"></a>&nbsp;<a href="https://www.cplusplus.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width="32"></a>&nbsp;
-<a href="https://www.php.net/"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="32"></a>&nbsp;
-<a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="32"></a>
+![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
+![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
+![CSharp](https://img.shields.io/static/v1?style=for-the-badge&message=C%23&color=3178C6&logo=CSharp&logoColor=FFFFFF&label=)
+![CPlusPlus](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=3178C6&logo=c%2B%2B&logoColor=FFFFFF&label=)
+![PHP](https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=777BB4&logo=PHP&logoColor=FFFFFF&label=)
+![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
 
+🧩 Frameworks/Libraries
 
-<a href="https://code.visualstudio.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="32"></a>&nbsp;<a href="https://www.jetbrains.com/webstorm/"><img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" width="32"></a>&nbsp;<a href="https://www.jetbrains.com/phpstorm/"><img src="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-original.svg" width="32"></a>&nbsp;
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![vue](https://img.shields.io/badge/Vue-20232A?style=for-the-badge&logo=vuedotjs&logoColor=61DAFB)
+![nextjs](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=white)
+![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
+💅 UI Frameworks/Tools
 
-## Donation
+![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![less](https://img.shields.io/badge/Less-%234ED1C5.svg?style=for-the-badge&logo=less&logoColor=white)
+![material ui](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material Design](https://img.shields.io/static/v1?style=for-the-badge&message=Material+Design&color=757575&logo=Material+Design&logoColor=FFFFFF&label=)
 
-If you find any of my projects or tools useful and want to donate to show your appreciation for my hard work you can use any of the below addresses.
+🗃️ Databases
 
-#### PayPal:  
+![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-paypal.me/warrengalyen
+### ⚒️ Tools
 
-#### Crypto:
+![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
-**BTC**: bc1q242ktrw27x2wek283quh752f5mzndfm7aseqn0
+🧠 IDEs I use
 
-**ETH**: 0xb0aF79d975fc5A09461c23FabA50E8616D18Fe6b
+![Visual Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio&color=5C2D91&logo=Visual+Studio&logoColor=FFFFFF&label=)
+![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
+![WebStorm](https://img.shields.io/static/v1?style=for-the-badge&message=WebStorm&color=007ACC&logo=WebStorm&logoColor=FFFFFF&label=)
+![PhpStorm](https://img.shields.io/static/v1?style=for-the-badge&message=PhpStorm&color=007ACC&logo=PhpStorm&logoColor=FFFFFF&label=)
 
-**XCH**: xch144twtrpfwm97wk3z7qpm9fqupg74wu9sfqwnr4kxfuunmduvwypsw30ndd
+### 💻 Workspace
 
-
-
-
+![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=E95420&logo=Ubuntu&logoColor=FFFFFF&label=)
