@@ -1,7 +1,3 @@
-### What I'm working on? ###
-
-Creating an online marketplace using some new technologies such as Server Actions and Drizzle ORM.
-
 ### Interactive Demos: 
 
 <a href="https://treetop-playground.github.io">Treetop Playground</a>
