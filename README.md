@@ -68,3 +68,25 @@
 
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=E95420&logo=Ubuntu&logoColor=FFFFFF&label=)
+
+## Donation
+
+If you find any of my projects or tools useful and want to donate to show your appreciation for my hard work you can use any of the below addresses.
+
+#### PayPal:  
+
+paypal.me/warrengalyen
+
+#### Crypto:
+
+BTC: bc1q242ktrw27x2wek283quh752f5mzndfm7aseqn0
+<br/><img src="https://chart.googleapis.com/chart?chs=120x120&amp;cht=qr&amp;choe=UTF-8&amp;chl=bc1q242ktrw27x2wek283quh752f5mzndfm7aseqn0" alt="Bitcoin">
+
+ETH: 0xb0aF79d975fc5A09461c23FabA50E8616D18Fe6b
+<br/><img src="https://chart.googleapis.com/chart?chs=120x120&amp;cht=qr&amp;choe=UTF-8&amp;chl=0xb0aF79d975fc5A09461c23FabA50E8616D18Fe6b" alt="Ethereum">
+
+DOGE: D7R68E5HjXPGGLWJgdSuppNgrkDybYg9c6
+<br/><img src="https://chart.googleapis.com/chart?chs=120x120&amp;cht=qr&amp;choe=UTF-8&amp;chl=D7R68E5HjXPGGLWJgdSuppNgrkDybYg9c6" alt="Dogecoin">
+
+CHIA: xch144twtrpfwm97wk3z7qpm9fqupg74wu9sfqwnr4kxfuunmduvwypsw30ndd
+<br/><img src="https://chart.googleapis.com/chart?chs=120x120&amp;cht=qr&amp;choe=UTF-8&amp;chl=xch144twtrpfwm97wk3z7qpm9fqupg74wu9sfqwnr4kxfuunmduvwypsw30ndd" alt="Chia">
