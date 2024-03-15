@@ -8,7 +8,7 @@
 
 ### Web Design and Development Tools:
 
-<a href="https://github.com/mechanika-lab-apps">Mechanika Web Lab</a>
+<a href="https://github.com/mechanika-design">Mechanika Design</a>
 
 </br>
 
