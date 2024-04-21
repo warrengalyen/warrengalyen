@@ -80,13 +80,13 @@ paypal.me/warrengalyen
 #### Crypto:
 
 BTC: bc1q242ktrw27x2wek283quh752f5mzndfm7aseqn0
-<br/><img src="https://chart.googleapis.com/chart?chs=120x120&amp;cht=qr&amp;choe=UTF-8&amp;chl=bc1q242ktrw27x2wek283quh752f5mzndfm7aseqn0" alt="Bitcoin">
+<br/><img src="https://quickchart.io/qr?text=bc1q242ktrw27x2wek283quh752f5mzndfm7aseqn0&size=120" alt="Bitcoin">
 
 ETH: 0xb0aF79d975fc5A09461c23FabA50E8616D18Fe6b
-<br/><img src="https://chart.googleapis.com/chart?chs=120x120&amp;cht=qr&amp;choe=UTF-8&amp;chl=0xb0aF79d975fc5A09461c23FabA50E8616D18Fe6b" alt="Ethereum">
+<br/><img src="https://quickchart.io/qr?text=0xb0aF79d975fc5A09461c23FabA50E8616D18Fe6b&size=120" alt="Ethereum">
 
 DOGE: D7R68E5HjXPGGLWJgdSuppNgrkDybYg9c6
-<br/><img src="https://chart.googleapis.com/chart?chs=120x120&amp;cht=qr&amp;choe=UTF-8&amp;chl=D7R68E5HjXPGGLWJgdSuppNgrkDybYg9c6" alt="Dogecoin">
+<br/><img src="https://quickchart.io/qr?text=D7R68E5HjXPGGLWJgdSuppNgrkDybYg9c6&size=120" alt="Dogecoin">
 
 CHIA: xch144twtrpfwm97wk3z7qpm9fqupg74wu9sfqwnr4kxfuunmduvwypsw30ndd
-<br/><img src="https://chart.googleapis.com/chart?chs=120x120&amp;cht=qr&amp;choe=UTF-8&amp;chl=xch144twtrpfwm97wk3z7qpm9fqupg74wu9sfqwnr4kxfuunmduvwypsw30ndd" alt="Chia">
+<br/><img src="https://quickchart.io/qr?text=xch144twtrpfwm97wk3z7qpm9fqupg74wu9sfqwnr4kxfuunmduvwypsw30ndd&size=120" alt="Chia">
